@@ -1,0 +1,1 @@
+global.down = 3;
